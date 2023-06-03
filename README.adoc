@@ -46,10 +46,10 @@ Merci à mailto:saadialbane@gmail.com:[Saadia Albane] pour l'idée du problème 
 === De la solution...
 
 * LAST NAME : ESPINASSE
-* First name : Pauk
+* First name : Paul
 * TD group : 
 - [ ] 1
-- [] 2
+- [ ] 2
 - [ ] 3
 - [x] 4
 
